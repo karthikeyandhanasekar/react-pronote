@@ -32,6 +32,7 @@ textarea,.output-text
   background-color: transparent;
   border: solid 5px grey;
   color: white;
+  line-height: 1.6;
 }
 .output-text
 {
