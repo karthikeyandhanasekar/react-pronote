@@ -8,8 +8,6 @@ function App() {
   const handleChange = (e) => {
     getvalue(e.target.value);
   }
-
-
   return (
     <div className="App">
       <div className="container">
