@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-pronote/static/css/main.4adddf4c.chunk.css",
+    "main.js": "/react-pronote/static/js/main.d601b1db.chunk.js",
+    "main.js.map": "/react-pronote/static/js/main.d601b1db.chunk.js.map",
+    "runtime-main.js": "/react-pronote/static/js/runtime-main.de14579c.js",
+    "runtime-main.js.map": "/react-pronote/static/js/runtime-main.de14579c.js.map",
+    "static/js/2.5c91ac27.chunk.js": "/react-pronote/static/js/2.5c91ac27.chunk.js",
+    "static/js/2.5c91ac27.chunk.js.map": "/react-pronote/static/js/2.5c91ac27.chunk.js.map",
+    "static/js/3.21086da1.chunk.js": "/react-pronote/static/js/3.21086da1.chunk.js",
+    "static/js/3.21086da1.chunk.js.map": "/react-pronote/static/js/3.21086da1.chunk.js.map",
+    "index.html": "/react-pronote/index.html",
+    "static/css/main.4adddf4c.chunk.css.map": "/react-pronote/static/css/main.4adddf4c.chunk.css.map",
+    "static/js/2.5c91ac27.chunk.js.LICENSE.txt": "/react-pronote/static/js/2.5c91ac27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de14579c.js",
+    "static/js/2.5c91ac27.chunk.js",
+    "static/css/main.4adddf4c.chunk.css",
+    "static/js/main.d601b1db.chunk.js"
+  ]
+}
